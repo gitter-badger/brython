@@ -4,6 +4,8 @@
 brython
 =======
 
+[![Join the chat at https://gitter.im/juancarlospaco/brython](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/juancarlospaco/brython?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Brython (Browser Python) is an implementation of Python 3 running in the 
 browser, with an interface to the DOM elements and events.
 
